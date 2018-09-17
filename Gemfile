@@ -1,7 +1,7 @@
 ruby "2.4.1"
 source "http://rubygems.org"
 
-gem "sinatra", "~> 2.0.3"
+gem "sinatra", "~> 2.0.4"
 gem "oauth2", "~> 1.4.0"
 gem "gocardless_pro", "~> 2.12.0"
 gem "prius", "~> 2.0.0"
