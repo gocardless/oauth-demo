@@ -1,5 +1,6 @@
-ruby "2.4.1"
 source "http://rubygems.org"
+
+ruby "2.6.1"
 
 gem "sinatra", "~> 2.0.3"
 gem "oauth2", "~> 1.4.0"
