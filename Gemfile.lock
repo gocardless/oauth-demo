@@ -2,9 +2,9 @@ GEM
   remote: http://rubygems.org/
   specs:
     dotenv (2.7.5)
-    faraday (0.17.1)
+    faraday (0.17.3)
       multipart-post (>= 1.2, < 3)
-    gocardless_pro (2.15.1)
+    gocardless_pro (2.16.0)
       faraday (>= 0.9.2, < 1.0)
     jwt (2.2.1)
     multi_json (1.14.1)
@@ -40,7 +40,7 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv (~> 2.7.5)
-  gocardless_pro (~> 2.15.1)
+  gocardless_pro (~> 2.16.0)
   oauth2 (~> 1.4.2)
   prius (~> 2.0.0)
   puma (~> 4.3.1)
